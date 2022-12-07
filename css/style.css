@@ -1,0 +1,15 @@
+*{
+    margin: none;
+}
+
+body h1{
+    color: aqua;
+}
+.bi bi-calendar-heart{
+    align-items: center;
+}
+footer{
+    background-color: rgb(100, 100, 100);
+    color: rgb(41, 40, 40);
+
+}
